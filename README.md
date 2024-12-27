@@ -28,20 +28,20 @@ This is the frontend part of the **Potato Leaf Disease Classification** project.
    git clone https://github.com/KNAVEEN1705/potato-leaf-disease-detection.git
 
 2. Navigate to the Frontend Directory:
-cd potato-leaf-disease-detection/frontend
+`cd potato-leaf-disease-detection/frontend`
 
 3.Install Dependencies:
-npm install
+`npm install`
 
 4.Scripts
 Start the Development Server
 Start the app in development mode. Open your browser at http://localhost:3000:
-npm start
+`npm start`
 
 
 Backend and Machine Learning Code
 The backend and machine learning code for this project can be found in the same repository. 
-[Backend code and machine learning code] (https://github.com/KNAVEEN1705/potato-leaf-disease-detection )
+[Backend code and machine learning code][here] (https://github.com/KNAVEEN1705/potato-leaf-disease-detection )
 
 
 
