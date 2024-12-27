@@ -39,5 +39,9 @@ Start the app in development mode. Open your browser at http://localhost:3000:
 npm start
 
 
+Backend and Machine Learning Code
+The backend and machine learning code for this project can be found in the same repository. 
+[Backend code and machine learning code] (https://github.com/KNAVEEN1705/potato-leaf-disease-detection )
+
 
 
